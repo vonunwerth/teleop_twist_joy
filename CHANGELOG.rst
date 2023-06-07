@@ -2,8 +2,8 @@
 Changelog for package teleop_twist_joy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.5.0 (2023-06-07)
+------------------
 * [rolling] Update maintainers - 2022-11-07 (`#33 <https://github.com/ros2/teleop_twist_joy/issues/33>`_)
 * Enable uncrustify and cpplint.
 * Cleanup CMakeLists.txt.
