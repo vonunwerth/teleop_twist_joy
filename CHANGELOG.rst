@@ -2,8 +2,8 @@
 Changelog for package teleop_twist_joy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.4.4 (2023-06-07)
+------------------
 * Install includes to include/${PROJECT_NAME} (`#30 <https://github.com/ros2/teleop_twist_joy/issues/30>`_)
 * joy_vel argument (`#29 <https://github.com/ros2/teleop_twist_joy/issues/29>`_)
 * Contributors: Raffaello Bonghi, Shane Loretz
