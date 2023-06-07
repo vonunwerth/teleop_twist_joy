@@ -2,8 +2,8 @@
 Changelog for package teleop_twist_joy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.6.0 (2023-06-07)
+------------------
 * add inverted reverse param (`#35 <https://github.com/ros2/teleop_twist_joy/issues/35>`_)
 * [rolling] Update maintainers - 2022-11-07 (`#33 <https://github.com/ros2/teleop_twist_joy/issues/33>`_)
 * Enable uncrustify and cpplint.
