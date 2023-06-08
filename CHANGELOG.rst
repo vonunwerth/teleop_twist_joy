@@ -2,8 +2,8 @@
 Changelog for package teleop_twist_joy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.4.5 (2023-06-08)
+------------------
 * Cleanup CMakeLists.txt. (`#36 <https://github.com/ros2/teleop_twist_joy/issues/36>`_)
 * Contributors: Chris Lalancette
 
