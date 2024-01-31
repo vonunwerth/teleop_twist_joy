@@ -13,4 +13,10 @@ teleop_twist_joy_node:
       yaw: 0.4
 
     enable_button: 2  # Left trigger button
-    enable_turbo_button: 5  # Right trigger button
+    enable_turbo_button: 3  # Right trigger button
+
+    namespaces:
+      - hiver1
+      - hiver2
+
+    switch_publisher_button: 5
